@@ -1,4 +1,4 @@
 git01:AAAAA
-git02:BBBBB
+git02:kkkkkk
 git03:CCCCC
 git04:GGGGG
